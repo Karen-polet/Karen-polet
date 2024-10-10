@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Karen-polet
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning a programar 
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate in project
+- 📫 How to reach me writing
 - 😄 Pronouns: karen
 - ⚡ Fun fact: I loves animal 
 
